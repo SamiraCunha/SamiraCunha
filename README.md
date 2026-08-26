@@ -82,7 +82,8 @@
 
 <div align="center">
 
-> 🌱 *Learning, building, and improving one project at a time.*
+> *“A ship in port is safe, but that is not what ships are built for.”*  
+> — **Grace Hopper**
 
 </div>
 
