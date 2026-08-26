@@ -20,15 +20,17 @@
 <tr>
 <td width="65%" valign="middle">
 
-🎓 I'm currently a **Master's student in Computer Engineering**, looking to focus my career on **Backend Development**.
+🎓 **Master's student in Computer Engineering**
 
-🐍 I'm learning through **courses, tutorials, and personal projects**, with a focus on Python and API development.
+💻 **Career Focus:** Backend Development
 
-🚀 At the moment, I'm learning **FastAPI, PostgreSQL, and Docker**, while also exploring **REST APIs, System Design, and software engineering principles**.
+📚 **Learning:** Python · REST APIs · FastAPI · PostgreSQL · Docker · Git/GitHub · Software Engineering
 
-💡 My goal is to build a strong technical foundation and gain practical experience by continuously learning and building projects.
+🛠️ **Building:** Personal projects to apply and strengthen my technical skills
 
-✨ I believe that every project is an opportunity to learn something new and become a better developer.
+🎯 **Goal:** Build a strong foundation in software development and gain practical experience.
+
+✨ **Always learning. Always building.**
 
 </td>
 
