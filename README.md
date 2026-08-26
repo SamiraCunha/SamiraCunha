@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=120&section=header" width="100%" alt="Pink waving header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FAF7F2,50:E8DDD0,100:9A8174&height=120&section=header" width="100%" alt="Cream waving header">
       
 # 👋 Hello World, I'm Samira Cunha
 
