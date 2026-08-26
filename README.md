@@ -36,7 +36,7 @@
 
 <td width="35%" align="center">
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMwY2Rza3A0Y3o1NzV2d2FmdW1iOWEzam53N3g0MGVsYmI3MXMxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif)" width="280" alt="Coding Animation">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation">
 
 </td>
 </tr>
