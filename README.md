@@ -6,9 +6,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=EF93C4&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=EF93C4&labelColor=F8BBD0" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=EF93C4&labelColor=F8BBD0" alt="GitHub Stars" />
+<img src="https://komarev.com/ghpvc/?username=SamiraCunha&label=Profile%20Views&color=EF93C4&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/SamiraCunha?label=Followers&style=for-the-badge&color=EF93C4&labelColor=F8BBD0" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/SamiraCunha?label=Stars&style=for-the-badge&color=EF93C4&labelColor=F8BBD0" alt="GitHub Stars" />
 
 </div>
 
@@ -90,9 +90,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiraCunha&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0" width="49%" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" width="49%" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraCunha&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" width="49%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -117,7 +117,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: SamiraCunha
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -129,9 +129,9 @@ jobs:
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamiraCunha/SamiraCunha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamiraCunha/SamiraCunha/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/SamiraCunha/SamiraCunha/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
 
 </div>
