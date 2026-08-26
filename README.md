@@ -90,9 +90,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiraCunha&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0" width="49%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=SamiraCunha&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0"
+     width="49%"
+     alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraCunha&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true" width="49%" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraCunha"
+     width="49%"
+     alt="GitHub Activity Graph" />
 
 </div>
 
