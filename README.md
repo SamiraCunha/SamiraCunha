@@ -37,7 +37,8 @@
 <td width="35%" align="center">
 
 
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/595a80df-d7b0-4f41-9780-e84e9bc022ed" />
+<img width="480" height="480" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMwY2Rza3A0Y3o1NzV2d2FmdW1iOWEzam53N3g0MGVsYmI3MXMxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" />
+
 
 </td>
 </tr>
