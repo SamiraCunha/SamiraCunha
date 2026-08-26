@@ -89,53 +89,15 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=SamiraCunha&show_icons=true&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=EF93C4&text_color=888888"
+     width="49%"
+     alt="GitHub Statistics" />
+
+
 <img src="https://streak-stats.demolab.com/?user=SamiraCunha&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0"
      width="49%"
      alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiraCunha"
-     width="49%"
-     alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- GitHub Action: https://github.com/Platane/snk -->
-<!--
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: SamiraCunha
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamiraCunha/SamiraCunha/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamiraCunha/SamiraCunha/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/SamiraCunha/SamiraCunha/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</picture>
 
 </div>
 
