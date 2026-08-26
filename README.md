@@ -30,8 +30,6 @@
 
 🎯 **Goal:** Build a strong foundation in software development and gain practical experience.
 
-✨ **Always learning. Always building.**
-
 </td>
 
 <td width="35%" align="center">
