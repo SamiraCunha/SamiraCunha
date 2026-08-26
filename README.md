@@ -33,11 +33,7 @@
 </td>
 
 <td width="35%" align="center">
-
-
-<img width="300" height="300" alt="image" src="https://d2z0o16i8xm8ak.cloudfront.net/4e121dcd-3d2f-4194-ae2d-1bbd455af7b0/981668d7-d72f-4e1e-8b44-c384deb28c9c/coder_girl.gif" />
-
-
+      <img src="assets/coding.gif" width="400" alt="Garota programando" />
 </td>
 </tr>
 </table>
