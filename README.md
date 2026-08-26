@@ -36,7 +36,8 @@
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation">
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/okFG5aJWqRGMYXoKTD" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PersonaJourney-coding-programming-hanacoding-okFG5aJWqRGMYXoKTD">via GIPHY</a></p>
 
 </td>
 </tr>
