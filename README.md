@@ -50,7 +50,7 @@
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,cs,html&theme=dark" alt="Languages" />
 
 ### 🚀 Backend & APIs
 
