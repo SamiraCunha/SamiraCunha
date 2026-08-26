@@ -37,7 +37,7 @@
 <td width="35%" align="center">
 
 
-<img width="480" height="480" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMwY2Rza3A0Y3o1NzV2d2FmdW1iOWEzam53N3g0MGVsYmI3MXMxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" />
+<img width="400" height="400" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMwY2Rza3A0Y3o1NzV2d2FmdW1iOWEzam53N3g0MGVsYmI3MXMxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" />
 
 
 </td>
