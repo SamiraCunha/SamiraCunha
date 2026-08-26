@@ -26,7 +26,7 @@
 
 💻 **Career Focus:** Backend Development
 
-📚 **Learning:** Python · REST APIs · FastAPI · PostgreSQL · Docker · Git/GitHub · Software Engineering
+📚 **Learning:** Python · REST APIs · FastAPI · PostgreSQL · Docker · Git/GitHub · System Design
 
 🛠️ **Building:** Personal projects to apply and strengthen my technical skills
 
