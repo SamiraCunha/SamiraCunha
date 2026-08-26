@@ -33,7 +33,7 @@
 </td>
 
 <td width="35%" align="center">
-      <img src="assets/coding.gif" width="400" alt="Garota programando" />
+      <img src="assets/coder_girl.gif" width="400" alt="Garota programando" />
 </td>
 </tr>
 </table>
