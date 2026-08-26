@@ -36,7 +36,8 @@
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation">
+
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/595a80df-d7b0-4f41-9780-e84e9bc022ed" />
 
 </td>
 </tr>
