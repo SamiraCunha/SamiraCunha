@@ -89,11 +89,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SamiraCunha&show_icons=true&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=EF93C4&text_color=888888"
-     width="49%"
-     alt="GitHub Statistics" />
-
-
 <img src="https://streak-stats.demolab.com/?user=SamiraCunha&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0"
      width="49%"
      alt="GitHub Streak" />
