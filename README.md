@@ -35,7 +35,7 @@
 <td width="35%" align="center">
 
 
-<img width="300" height="300" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMwY2Rza3A0Y3o1NzV2d2FmdW1iOWEzam53N3g0MGVsYmI3MXMxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" />
+<img width="300" height="300" alt="image" src="https://d2z0o16i8xm8ak.cloudfront.net/4e121dcd-3d2f-4194-ae2d-1bbd455af7b0/981668d7-d72f-4e1e-8b44-c384deb28c9c/coder_girl.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMnowbzE2aTh4bThhay5jbG91ZGZyb250Lm5ldC80ZTEyMWRjZC0zZDJmLTQxOTQtYWUyZC0xYmJkNDU1YWY3YjAvOTgxNjY4ZDctZDcyZi00ZTFlLThiNDQtYzM4NGRlYjI4YzljL2NvZGVyX2dpcmwuZ2lmPyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODgzNjU4MDd9fX1dfQ__&Signature=hLUIJUWbM5Y4t-N~Kj8JnqjBlgeEmpC9bszLpwHju8qdXgbjeJWZDAkxtbFBj~GJm~6zK5JdCFl22P~1ynJ9Qtx-7jiZU9Lq6q1EDGYmeAqbaL2FpB3P~sooByg0onE9YG~pMcnyUGnfqoIvmnpSHYB5aVbMUfNS77IitJrvc5D5-Th3M90Uxlztj8di5IEG~E0DJjwriY~KtnrXhFwIIU~GcgARPd6Sxah5Kmi2J5lyEpMkexVblkACzK3EBUHphQTLQfuaJP2gsTcZUpHeVwhT~bosey26RaCSfbGBe173CTfqzwv6fcoTCXQrdGbibVSSNEP9rq9v8cGzTMTZiw__&Key-Pair-Id=K1BF7XGXAIMYNX" />
 
 
 </td>
