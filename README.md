@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FAF7F2,50:E8DDD0,100:9A8174&height=120&section=header" width="100%" alt="Cream waving header">
-
 # 👋 Hello World, I'm Samira Cunha
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9A8174&center=true&vCenter=true&width=600&lines=Master's+Student+in+Computer+Engineering;Aspiring+Backend+Developer;Learning+Python+%26+FastAPI;Exploring+System+Design+%26+Software+Engineering" alt="Typing SVG" />
