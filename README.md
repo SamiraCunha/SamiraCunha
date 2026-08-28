@@ -64,7 +64,7 @@
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently learning and getting better
 
 <div align="center">
 
